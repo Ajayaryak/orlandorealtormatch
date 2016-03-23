@@ -1,0 +1,103 @@
+@charset "utf-8";
+/* CSS Document */
+
+@media (max-width:1364px) {}
+@media (max-width:1224px) {
+	
+	.h_form  span { margin: 0 0 8px; float:left; width:100%;}
+		.h_form.affix {  padding: 8px 48px;}
+		 .con_testimon {  margin: 0 ;}
+}
+
+@media (max-width:1023px) {
+	.h_form.affix {  padding: 8px 28px;}
+	
+	.h_form p input{width:100%;}
+	.header_b_client h1 {   text-align: center;}
+	.con_about h1 {  font-size: 35px;}
+	.con_about ul li {font-size: 14px;}
+	
+	.con_step_a figure {  height: 130px; width: 130px;}
+	.con_step_a figure img {  width: 64px;}
+	.con_step_a h2 {font-size: 18px;}
+	.con_step_a h3 {font-size: 16px;}
+	.con_test_b { font-size: 24px;}
+	.footer_test { font-size: 13px;}
+	.header_bottom12 figure img {   height: 570px;}
+	.container{width:100%; max-width:100%;}
+	.header_b_client section img { float: none;}
+	
+	
+}
+
+
+
+
+
+
+@media (max-width:767px) {
+	
+	.logo { text-align: center;}
+	.account_button { display: inline-block; margin: 13px 0 0; text-align: center; width: 100%;}
+	.header_account {   display: inline-block;   text-align: center; float:none; margin: 0 17px 0 0;}
+		.header_account1 {   display: inline-block;   text-align: center;float:none;}
+		.h_form.affix {position: initial !important; }
+		.logo { margin: 0 0 10px;}
+		
+		.header_bottom_c { position: initial;}
+		.header_bottom_con h1 {color:#000;}
+ .header_bottom_con { margin: 22px 0 0;}
+ .header_b_client {background: #000 none repeat scroll 0 0;}
+ 
+ .con_about ul { padding: 0;}
+ .con_about ul li { margin: 0 0 15px; padding: 0 0 0 22px;}
+ .con_about p { font-size: 15px; line-height: 31px;}
+ 
+ 
+ .con_step_a {  margin: 0 0 44px;}
+ .con_step_a figure {   margin: 0 0 6px;}
+ .con_step_outer { margin: 23px 0 0;}
+ .con_how_work { padding: 31px 0 7px;}
+ 	
+	.con_step_a figure {  height: 160px; width: 160px;}
+	.con_step_a figure img {  width: 90px;}
+ .con_tp {  margin: 0 0 29px;}
+ 
+ .top_simplcity {background-size:100% 100%;  padding: 0 0 50px;}
+ .con_simple figure {  margin: 0 0 10px;}
+ .con_simple { margin: 15px 0 0; padding: 46px 0 0;}
+ .footer_test {   margin: 6px 0 40px;   text-align: center;}
+ 
+ .con_test_b {text-align: center; width: 100%;}
+ .con_testimon figure {height: auto;}
+ .con_testimon { margin: 0 0 40px;}
+ .book_form .btn-facebook {   margin: 0 0 20px;}
+ 	.header_bottom12 figure img {   height: auto;}
+.contact {  text-align: center;}
+.header_b_client section img{width:100%;}
+.header.affix .contact {font-size: 16px;}
+}
+
+
+@media (max-width: 640px) {
+	
+			.header_bottom_con h1 {font-size:26px;}
+	.header_bottom_con h21 {font-size:19px;}
+	.con_testimon figure {height: auro;}
+	
+}
+
+
+@media (max-width: 480px) {
+	
+	.con_test_b { font-size: 19px;}
+	.footer_test {font-size: 11px;}
+	.con_tp figure img {width:230px; height:230px;}
+	.con_test_b {font-size: 17px;}
+}
+
+
+
+@media (max-width: 320px) {}
+	
+	
